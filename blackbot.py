@@ -1,4 +1,5 @@
 token = "MzQ4MTMxNzczODYwOTM3NzI4.DHjBdA.YfFrbDKGqEZLF3Zk0mNaIOCgvk8"
+
 import discord
 import asyncio
 import logging
